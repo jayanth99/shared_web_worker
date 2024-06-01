@@ -1,0 +1,16 @@
+{
+  "name": "shared_web_worker",
+  "version": "1.0.0",
+  "description": "shared web worker",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^8.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
