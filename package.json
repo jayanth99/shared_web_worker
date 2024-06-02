@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "node server.js",
-    "start": "node server.js && serve"
+    "start": "node server.js & serve"
   },
   "author": "Jayanth Harsha",
   "license": "ISC"
